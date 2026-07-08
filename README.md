@@ -1,162 +1,100 @@
-<div align="center">
-
-# Hi 👋, I'm Anis Fathima
-
-### 🎓 Computer Science Engineering Student | 🤖 AI & ML Enthusiast | 📊 Data Analytics
-
-<p>
-Passionate about building AI-powered applications, solving real-world problems, and continuously learning modern technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Anis+Fathima;Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+%7C+Generative+AI;Always+Learning+New+Technologies" />
 </p>
 
-</div>
+<h1 align="center">Welcome to My GitHub 👩‍💻</h1>
+
+<p align="center">
+Passionate about building intelligent applications using Artificial Intelligence, Machine Learning, Data Analytics, and modern Web Technologies.
+</p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 B.E. Computer Science Engineering (2023–2027)
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI
+- 🎓 B.E. Computer Science Engineering Student (2023–2027)
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
 - 📊 Interested in Data Analytics and Power BI
-- 💻 Building web applications and AI-based solutions
-- 🌱 Currently learning Azure AI, LLMs, and Full Stack Development
-- 🎯 Seeking internship opportunities to apply my technical skills and gain industry experience
+- 💻 Love building AI-powered and Web-based applications
+- 🌱 Currently learning LLMs, Azure AI and Full Stack Development
+- 🏆 Microsoft Azure AI (AI-102) | AWS Generative AI | NPTEL Java | Deloitte Forage | Infosys Springboard AI
+- 🎯 Looking for Internship Opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-**Languages**
-- Python
-- Java
-- C
-- SQL
+<p>
 
-**Web**
-- HTML
-- CSS
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,mysql,mongodb,git,github,vscode"/>
 
-**Databases**
-- MySQL
-- MongoDB
+</p>
 
 **AI & Data**
-- Machine Learning
-- Generative AI
-- Power BI
-- Microsoft Azure AI
+- 🤖 Machine Learning
+- 🧠 Generative AI
+- 📊 Power BI
+- ☁️ Microsoft Azure AI
 
 ---
 
 ## 📂 Featured Projects
 
-- 🌾 Crop Disease Detection using AI & Machine Learning
-- 🛒 E-Commerce Web Application
-- 📊 Power BI Dashboard
+🌾 Crop Disease Detection using AI & Machine Learning
+
+🛒 E-Commerce Web Application
+
+📊 Data Visualization Dashboard using Power BI
 
 ---
 
 ## 🏅 Certifications
 
-- Microsoft Certified: Azure AI Engineer Associate (AI-102)
-- AWS – Introduction to Generative AI
-- AWS – Building a Generative AI-Ready Organization
-- Deloitte Data Analytics Job Simulation (Forage)
-- NPTEL – Programming in Java
-- Infosys Springboard – Artificial Intelligence for All
+- ✅ Microsoft Certified: Azure AI Engineer Associate (AI-102)
+- ✅ Programming in Java – NPTEL (IIT Kharagpur)
+- ✅ Data Analytics Job Simulation – Deloitte (Forage)
+- ✅ Artificial Intelligence for All – Infosys Springboard
+- ✅ Introduction to Generative AI – AWS
+- ✅ Building a Generative AI-Ready Organization – AWS
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anisfathima911&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisfathima911&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=anisfathima911&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anisfathima911&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
 - Large Language Models (LLMs)
-- Generative AI
-- Full Stack Development
-- Data Analytics
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** anisfathimaa23cs@psnacet.edu.in
-
-💼 **LinkedIn:**  
-www.linkedin.com/in/anis-fathima-3127132a5
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Learning never stops. Every project is a step toward becoming a better engineer."*
-
-</div>
-# Hi 👋, I'm Anis Fathima
-
-🎓 Computer Science Engineering Student (2023–2027)
-
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Full Stack Development.
-
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing B.E. in Computer Science Engineering with a strong interest in AI-driven solutions.
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Generative AI.
-- 💻 Skilled in Python, Java, SQL, HTML, CSS, MySQL, MongoDB, and Power BI.
-- 🌱 Currently exploring Azure AI, Large Language Models (LLMs), and modern web technologies.
-- 🏆 Certified in Microsoft Azure AI (AI-102), AWS Generative AI, NPTEL Programming in Java, Deloitte Data Analytics Job Simulation, and Infosys Springboard AI.
-- 🎯 Looking for internship opportunities to gain hands-on experience and contribute to impactful projects.
-
----
-
-## 🛠️ Tech Stack
-
-**Programming Languages**
-- Python
-- Java
-- C
-- SQL
-
-**Web Development**
-- HTML
-- CSS
-
-**Databases**
-- MySQL
-- MongoDB
-
-**AI & Data**
-- Machine Learning
-- Generative AI
-- Power BI
-- Microsoft Azure AI
-
----
-
-## 📂 Featured Projects
-
-- 🌾 Crop Disease Detection using AI & Machine Learning
-- 🛒 E-Commerce Web Application
-- 📊 Power BI Data Visualization Dashboard
-
----
-
-## 📜 Certifications
-
-- 🏅 Microsoft Certified: Azure AI Engineer Associate (AI-102)
-- 🏅 Artificial Intelligence for All – Infosys Springboard
-- 🏅 Data Analytics Job Simulation – Deloitte (Forage)
-- 🏅 Introduction to Generative AI – AWS Training & Certification
-- 🏅 Building a Generative AI-Ready Organization – AWS Training & Certification
-- 🏅 Programming in Java – NPTEL (IIT Kharagpur)
-
----
-
-## 🌱 Currently Learning
-
-- Generative AI
-- Machine Learning
+- Retrieval-Augmented Generation (RAG)
 - Azure AI
 - Full Stack Development
 - Data Analytics
@@ -165,11 +103,16 @@ www.linkedin.com/in/anis-fathima-3127132a5
 
 ## 📫 Connect With Me
 
-📧 **Email:** anisfathimaa23cs@psnacet.edu.in
+📧 **Email:**  
+anisfathimaa23cs@psnacet.edu.in
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/anis-fathima-3127132a5
 
 ---
 
-⭐ *"Always learning, building, and improving through real-world projects and continuous practice."*
+<p align="center">
+
+⭐ *"Keep Learning • Keep Building • Keep Growing"* 🚀
+
+</p>
