@@ -31,13 +31,17 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,mongodb,git,github,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,mongodb,git,github,vscode" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
 
 ### 🤖 AI & Data
 
