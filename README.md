@@ -1,4 +1,96 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+I'm+Anis+Fathima;Computer+Science+Engineering+Student;AI+%26+ML+Enthusiast;Data+Analytics+%7C+Generative+AI;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
+<div align="center">
+
+# Hi 👋, I'm Anis Fathima
+
+### 🎓 Computer Science Engineering Student | 🤖 AI & ML Enthusiast | 📊 Data Analytics
+
+<p>
+Passionate about building AI-powered applications, solving real-world problems, and continuously learning modern technologies.
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.E. Computer Science Engineering (2023–2027)
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI
+- 📊 Interested in Data Analytics and Power BI
+- 💻 Building web applications and AI-based solutions
+- 🌱 Currently learning Azure AI, LLMs, and Full Stack Development
+- 🎯 Seeking internship opportunities to apply my technical skills and gain industry experience
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- Java
+- C
+- SQL
+
+**Web**
+- HTML
+- CSS
+
+**Databases**
+- MySQL
+- MongoDB
+
+**AI & Data**
+- Machine Learning
+- Generative AI
+- Power BI
+- Microsoft Azure AI
+
+---
+
+## 📂 Featured Projects
+
+- 🌾 Crop Disease Detection using AI & Machine Learning
+- 🛒 E-Commerce Web Application
+- 📊 Power BI Dashboard
+
+---
+
+## 🏅 Certifications
+
+- Microsoft Certified: Azure AI Engineer Associate (AI-102)
+- AWS – Introduction to Generative AI
+- AWS – Building a Generative AI-Ready Organization
+- Deloitte Data Analytics Job Simulation (Forage)
+- NPTEL – Programming in Java
+- Infosys Springboard – Artificial Intelligence for All
+
+---
+
+## 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Generative AI
+- Full Stack Development
+- Data Analytics
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** anisfathimaa23cs@psnacet.edu.in
+
+💼 **LinkedIn:**  
+www.linkedin.com/in/anis-fathima-3127132a5
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Learning never stops. Every project is a step toward becoming a better engineer."*
+
+</div>
 # Hi 👋, I'm Anis Fathima
 
 🎓 Computer Science Engineering Student (2023–2027)
