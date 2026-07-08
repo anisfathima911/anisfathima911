@@ -4,13 +4,13 @@
 
 ### 🎓 Computer Science Engineering Student | 🤖 AI & Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%F0%9F%93%9A;Data+Analytics+%F0%9F%93%8A;Full+Stack+Learner+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+🤖;Machine+Learning+📚;Data+Analytics+📊;Full+Stack+Learner+💻;Always+Learning+New+Technologies+🚀"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.E. Computer Science Engineering Student (2023–2027)
 
@@ -18,23 +18,22 @@
 
 💻 I enjoy building AI-powered applications, developing web solutions, and continuously learning modern technologies.
 
-🌱 Currently exploring:
-
-- Generative AI
-- Azure AI
-- Large Language Models (LLMs)
-- Full Stack Development
-- Data Analytics
+🌱 **Currently Exploring**
+- 🤖 Generative AI
+- ☁️ Microsoft Azure AI
+- 🧠 Large Language Models (LLMs)
+- 💻 Full Stack Development
+- 📊 Data Analytics
 
 🎯 Looking for internship opportunities where I can contribute, learn, and grow as a software engineer.
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,mysql,mongodb,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,mongodb,git,github,vscode"/>
 
 </p>
 
@@ -47,7 +46,7 @@
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
 🌾 Crop Disease Detection using AI & Machine Learning
 
@@ -57,7 +56,7 @@
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
 - 🥇 Microsoft Certified: Azure AI Engineer Associate (AI-102)
 - 🥇 Programming in Java – NPTEL (IIT Kharagpur)
@@ -68,19 +67,19 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anisfathima911&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anisfathima911&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisfathima911&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anisfathima911&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -90,17 +89,17 @@
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Azure AI
-- Full Stack Development
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ⚡ Generative AI
+- ☁️ Azure AI
+- 💻 Full Stack Development
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 📧 **Email**
 
