@@ -1,8 +1,8 @@
-
-
 # 👋 Hi, I'm Anis Fathima
 
-### 🎓 Computer Science Engineering Student | 🤖 AI & Machine Learning Enthusiast
+### 🎓 Computer Science Engineering Student
+
+💻 Full Stack Developer • 🤖 AI & Machine Learning • 📊 Data Analytics • ☁️ Azure AI
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Data+Analytics;Full+Stack+Learner;Always+Learning+New+Technologies"/>
